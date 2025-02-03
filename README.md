@@ -1,1 +1,3 @@
 # Interactive-Insurance-Analytics-Dashboard-with-Power-BI
+link : https://app.powerbi.com/links/oUvEoqexYj?ctid=8687d845-f750-4e1f-bf0c-4864263dc3ae&pbi_source=linkShare
+Developed an interactive Power BI dashboard for Prism Insurance Pvt. Ltd., analyzing $5.98M in premiums, $600.55M in coverage, and $16.91M in claims. Implemented schedule refresh, drill-through filters, and row-level security, improving data accessibility by 30%. Used DAX for advanced calculations, identifying Travel policies as the highest revenue contributor ($2.5M) and optimizing focus on high-value customer segments. Enabled targeted retention strategies, reducing inactive policies by 10%.
